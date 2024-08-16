@@ -1,7 +1,7 @@
 layout: default
 title: "Home"
 
-# {{site.title}}
+# {{ site.title }}
 
 <ul>
   {% for post in site.posts %}
@@ -10,3 +10,8 @@ title: "Home"
     </li>
   {% endfor %}
 </ul>
+
+# TOPICS
+
+* Geometric Deep Learning
+* Bifurcation Analysis
